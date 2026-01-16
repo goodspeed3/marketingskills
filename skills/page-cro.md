@@ -330,5 +330,5 @@ If you need more context, ask:
 - **signup-flow-cro**: If the issue is in the signup process itself, not the page leading to it
 - **form-cro**: If forms on the page need optimization
 - **popup-cro**: If considering popups as part of the conversion strategy
-- **page-copywriting**: If the page needs a complete copy rewrite rather than CRO tweaks
+- **copywriting**: If the page needs a complete copy rewrite rather than CRO tweaks
 - **ab-test-setup**: To properly test recommended changes

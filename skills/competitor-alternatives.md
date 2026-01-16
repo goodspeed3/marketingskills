@@ -745,6 +745,6 @@ If you need more context:
 ## Related Skills
 
 - **programmatic-seo**: For building competitor pages at scale
-- **page-copywriting**: For writing compelling comparison copy
+- **copywriting**: For writing compelling comparison copy
 - **seo-audit**: For optimizing competitor pages
 - **schema-markup**: For FAQ and comparison schema

@@ -920,6 +920,6 @@ If you need more context:
 ## Related Skills
 
 - **onboarding-cro**: For in-app onboarding (email supports this)
-- **page-copywriting**: For landing pages emails link to
+- **copywriting**: For landing pages emails link to
 - **ab-test-setup**: For testing email elements
 - **popup-cro**: For email capture popups

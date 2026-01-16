@@ -622,5 +622,5 @@ If you need more context:
 
 - **seo-audit**: For auditing programmatic pages after launch
 - **schema-markup**: For adding structured data to templates
-- **page-copywriting**: For the non-templated copy portions
+- **copywriting**: For the non-templated copy portions
 - **analytics-tracking**: For measuring programmatic page performance
