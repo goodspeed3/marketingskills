@@ -417,9 +417,8 @@ For each issue:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What action most correlates with retention?
 2. What happens immediately after signup?
 3. Where do users currently drop off?

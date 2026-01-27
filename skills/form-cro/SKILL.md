@@ -408,9 +408,8 @@ Ideas to A/B test with expected outcomes
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What's your current form completion rate?
 2. Do you have field-level analytics?
 3. What happens with the data after submission?

@@ -908,15 +908,13 @@ What to measure and benchmarks
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What triggers entry to this sequence?
 2. What's the primary goal/conversion action?
-3. Who is the audience?
-4. What do they already know about you?
-5. What other emails are they receiving?
-6. What's your current email performance?
+3. What do they already know about you?
+4. What other emails are they receiving?
+5. What's your current email performance?
 
 ---
 

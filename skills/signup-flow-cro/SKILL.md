@@ -339,9 +339,8 @@ Organized by:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What's your current signup completion rate?
 2. Do you have field-level analytics on drop-off?
 3. What data is absolutely required before they can use the product?

@@ -692,9 +692,8 @@ Add "Contact Sales" when:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What pricing research have you done (surveys, competitor analysis)?
 2. What's your current ARPU and conversion rate?
 3. What's your primary value metric (what do customers pay for value)?

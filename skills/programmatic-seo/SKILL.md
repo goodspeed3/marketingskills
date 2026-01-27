@@ -609,9 +609,8 @@ Specific pre-launch checks for this implementation
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What keyword patterns are you targeting?
 2. What data do you have (or can acquire)?
 3. How many pages are you planning to create?

@@ -523,9 +523,8 @@ Specific validation steps
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What tools are you using (GA4, Mixpanel, etc.)?
 2. What key actions do you want to track?
 3. What decisions will this data inform?

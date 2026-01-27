@@ -534,14 +534,12 @@ When suggesting ideas, consider:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
-1. What's your product and who's your target customer?
-2. What's your current stage and main growth goal?
-3. What's your marketing budget and team size?
-4. What have you already tried that worked or didn't?
-5. What are your competitors doing that you admire or want to counter?
+1. What's your current stage and main growth goal?
+2. What's your marketing budget and team size?
+3. What have you already tried that worked or didn't?
+4. What competitor tactics do you admire or want to counter?
 
 ---
 

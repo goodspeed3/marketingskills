@@ -553,9 +553,8 @@ What to measure and expected benchmarks
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What's your current free → paid conversion rate?
 2. What triggers upgrade prompts today?
 3. What features are behind the paywall?

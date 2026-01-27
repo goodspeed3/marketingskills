@@ -434,9 +434,8 @@ When facing a marketing challenge, consider:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What specific behavior are you trying to influence?
 2. What does your customer believe before encountering your marketing?
 3. Where in the journey (awareness → consideration → decision) is this?

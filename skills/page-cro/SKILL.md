@@ -316,9 +316,8 @@ Content-to-conversion. Focus on:
 
 ---
 
-## Questions to Ask the User
+## Task-Specific Questions
 
-If you need more context, ask:
 
 1. What's your current conversion rate and goal?
 2. Where is traffic coming from?

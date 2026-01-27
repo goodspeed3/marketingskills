@@ -558,15 +558,12 @@ Detailed launch and ongoing strategy
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
-1. What's your core product/service?
-2. What problems does your audience commonly face?
-3. What existing tools do they use for workarounds?
-4. How do you currently generate leads?
-5. What technical resources are available?
-6. What's the timeline and budget?
+1. What existing tools do they use for workarounds?
+2. How do you currently generate leads?
+3. What technical resources are available?
+4. What's the timeline and budget?
 
 ---
 

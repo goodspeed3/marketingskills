@@ -581,9 +581,8 @@ Where to add the code and how
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What type of page is this?
 2. What rich results are you hoping to achieve?
 3. What data is available to populate the schema?

@@ -584,9 +584,8 @@ Typical findings:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What type of program are you building (referral, affiliate, or both)?
 2. What's your customer LTV and current CAC?
 3. Do you have an existing program, or starting from scratch?

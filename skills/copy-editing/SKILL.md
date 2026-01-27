@@ -411,15 +411,12 @@ This iterative process ensures each edit doesn't create new problems while respe
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What's the goal of this copy? (Awareness, conversion, retention)
-2. Who's the target audience?
-3. What action should readers take?
-4. What's the brand voice? (Casual, professional, playful, authoritative)
-5. Are there specific concerns or known issues?
-6. What proof/evidence do you have available?
+2. What action should readers take?
+3. Are there specific concerns or known issues?
+4. What proof/evidence do you have available?
 
 ---
 

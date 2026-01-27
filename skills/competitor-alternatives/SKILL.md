@@ -733,15 +733,12 @@ Recommended pages to create:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
-1. Who are your top 3-5 competitors?
-2. What's your core differentiator?
-3. What are common reasons people switch to you?
-4. Do you have customer quotes about switching?
-5. What's your pricing vs. competitors?
-6. Do you offer migration support?
+1. What are common reasons people switch to you?
+2. Do you have customer quotes about switching?
+3. What's your pricing vs. competitors?
+4. Do you offer migration support?
 
 ---
 

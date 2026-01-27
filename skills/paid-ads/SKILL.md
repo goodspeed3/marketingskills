@@ -534,9 +534,8 @@ Always exclude:
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What platform(s) are you currently running or want to start with?
 2. What's your monthly ad budget?
 3. What does a successful conversion look like (and what's it worth)?

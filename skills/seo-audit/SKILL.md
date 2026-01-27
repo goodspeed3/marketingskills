@@ -368,9 +368,8 @@ Same format as above
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What pages/keywords matter most?
 2. Do you have Search Console access?
 3. Any recent changes or migrations?

@@ -492,9 +492,8 @@ Next steps based on results
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What's your current conversion rate?
 2. How much traffic does this page get?
 3. What change are you considering and why?

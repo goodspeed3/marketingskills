@@ -336,7 +336,7 @@ Visual or structured representation of how content interconnects.
 
 ---
 
-## Questions to Ask the User
+## Task-Specific Questions
 
 1. What patterns emerge from your last 10 customer conversations?
 2. What questions keep coming up in sales calls?

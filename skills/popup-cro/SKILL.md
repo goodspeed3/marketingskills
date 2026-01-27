@@ -432,9 +432,8 @@ Ideas to A/B test with expected outcomes
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What's the primary goal for this popup?
 2. What's your current popup performance (if any)?
 3. What traffic sources are you optimizing for?

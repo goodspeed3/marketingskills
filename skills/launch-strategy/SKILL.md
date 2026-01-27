@@ -330,9 +330,8 @@ Even small changelog updates remind customers your product is evolving. This bui
 
 ---
 
-## Questions to Ask
+## Task-Specific Questions
 
-If you need more context:
 1. What are you launching? (New product, major feature, minor update)
 2. What's your current audience size and engagement?
 3. What owned channels do you have? (Email list size, blog traffic, community)
