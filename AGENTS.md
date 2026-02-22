@@ -20,6 +20,10 @@ marketingskills/
 ├── skills/                # Agent Skills
 │   └── skill-name/
 │       └── SKILL.md       # Required skill file
+├── tools/
+│   ├── clis/              # Zero-dependency Node.js CLI tools (51 tools)
+│   ├── integrations/      # API integration guides per tool
+│   └── REGISTRY.md        # Tool index with capabilities
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
@@ -27,13 +31,18 @@ marketingskills/
 
 ## Build / Lint / Test Commands
 
-**Not applicable** - This is a content-only repository with no executable code.
-
-Verify manually:
+**Skills** are content-only (no build step). Verify manually:
 - YAML frontmatter is valid
 - `name` field matches directory name exactly
 - `name` is 1-64 chars, lowercase alphanumeric and hyphens only
 - `description` is 1-1024 characters
+
+**CLI tools** (`tools/clis/*.js`) are zero-dependency Node.js scripts (Node 18+). Verify with:
+```bash
+node --check tools/clis/<name>.js   # Syntax check
+node tools/clis/<name>.js           # Show usage (no args = help)
+node tools/clis/<name>.js <cmd> --dry-run  # Preview request without sending
+```
 
 ## Agent Skills Specification
 

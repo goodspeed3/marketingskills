@@ -18,7 +18,11 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | Skill | Description |
 |-------|-------------|
 | [ab-test-setup](skills/ab-test-setup/) | When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions "A/B... |
+| [ad-creative](skills/ad-creative/) | When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad... |
+| [ai-seo](skills/ai-seo/) | When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers.... |
 | [analytics-tracking](skills/analytics-tracking/) | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions... |
+| [churn-prevention](skills/churn-prevention/) | When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or... |
+| [cold-email](skills/cold-email/) | Write B2B cold emails and follow-up sequences that get replies. Use when the user wants to write cold outreach emails,... |
 | [competitor-alternatives](skills/competitor-alternatives/) | When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when... |
 | [content-strategy](skills/content-strategy/) | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also... |
 | [copy-editing](skills/copy-editing/) | When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this... |
@@ -154,22 +158,28 @@ You can also invoke skills directly:
 ### Content & Copy
 - `copywriting` - Marketing page copy
 - `copy-editing` - Edit and polish existing copy
+- `cold-email` - B2B cold outreach emails and sequences
 - `email-sequence` - Automated email flows
 - `social-content` - Social media content
 
 ### SEO & Discovery
 - `seo-audit` - Technical and on-page SEO
+- `ai-seo` - AI search optimization (AEO, GEO, LLMO)
 - `programmatic-seo` - Scaled page generation
 - `competitor-alternatives` - Comparison and alternative pages
 - `schema-markup` - Structured data
 
 ### Paid & Distribution
 - `paid-ads` - Google, Meta, LinkedIn ad campaigns
+- `ad-creative` - Bulk ad creative generation and iteration
 - `social-content` - Social media scheduling and strategy
 
 ### Measurement & Testing
 - `analytics-tracking` - Event tracking setup
 - `ab-test-setup` - Experiment design
+
+### Retention
+- `churn-prevention` - Cancel flows, save offers, dunning, payment recovery
 
 ### Growth Engineering
 - `free-tool-strategy` - Marketing tools and calculators
