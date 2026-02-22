@@ -254,6 +254,33 @@ Before launching campaigns, ensure proper tracking and account setup.
 
 ---
 
+## Paid in the Bigger Picture (MKT1 Framework)
+
+Once you're running campaigns, use these concepts to connect paid to your broader marketing.
+
+### Paid-to-Organic Testing Loop
+Use paid as a testing lab for organic messaging:
+1. Run small-budget tests with different angles, hooks, and audiences
+2. Identify winning creative and messaging
+3. Apply insights to organic content, email copy, and landing pages
+4. Amplify top-performing organic posts back into paid (e.g., LinkedIn Thought Leader Ads)
+
+### Where Paid Fits: The 6 Growth Engines
+Paid is one of six engines. Understanding the others helps you coordinate:
+
+| Engine | Paid's Role |
+|--------|-------------|
+| **Inbound** (SEO, content) | Amplify top-performing organic content |
+| **Outbound** (email, SDR) | Awareness + retargeting for target accounts |
+| **Product Virality** (PLG) | Drive initial users who spread organically |
+| **Events** | Drive registrations, amplify event content |
+| **Ecosystem** (partnerships) | Amplify co-marketing campaigns |
+| **Lifecycle** (retention) | Retarget churned or dormant users |
+
+**GTM motion alignment**: Self-serve/PLG → paid + inbound emphasis. Sales-led → paid supports outbound + events.
+
+---
+
 ## Common Mistakes to Avoid
 
 ### Strategy
@@ -311,3 +338,10 @@ For tracking, see also: [ga4.md](../../tools/integrations/ga4.md), [segment.md](
 - **analytics-tracking**: For proper conversion tracking setup
 - **ab-test-setup**: For landing page testing to improve ROAS
 - **page-cro**: For optimizing post-click conversion rates
+
+---
+
+## Sources
+
+Frameworks in this skill draw from:
+- [MKT1 Newsletter](https://newsletter.mkt1.co/) — 6 Growth Engines, Channel Selection framework, Paid-to-Organic Testing Loop (Emily Kramer)

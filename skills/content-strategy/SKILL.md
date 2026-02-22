@@ -117,6 +117,19 @@ Structure: Challenge → Solution → Results → Key learnings
 **Meta Content**
 Behind-the-scenes transparency. "How We Got Our First $5k MRR," "Why We Chose Debt Over VC."
 
+### Beyond Blog Posts (MKT1 Framework)
+
+Content marketing is not just blog posts. High-impact formats include:
+- Spreadsheet templates and calculators
+- Interactive tools (use Lovable, Replit, Framer for "vibe coding")
+- Trend reports and original data studies
+- Workshops, webinars, and video series
+- Podcasts and audio content
+- Guides with unique POV (not just how-to)
+- Quizzes and assessments
+
+**Content differentiation test**: Do better than existing resources, or leverage unique access (your data, your customers, your partners). If you can't add something new to the conversation, don't create it.
+
 For programmatic content at scale, see **programmatic-seo** skill.
 
 ---
@@ -159,6 +172,14 @@ Good pillars should:
 - Match what your audience cares about
 - Have search volume and/or social interest
 - Be broad enough for many subtopics
+
+### Strengthening Pillars with Perceptions (MKT1)
+
+If the product marketing context includes **Perceptions** (3-5 key narratives), use them to sharpen your pillars. Each pillar should reinforce at least one Perception. If a pillar doesn't ladder to any Perception, it may be off-strategy.
+
+**The 30% Juice Rule**: Only ~30% of pillar content should directly reference your product. The other 70% covers audience problems, market trends, and workflows. This builds authority beyond feature marketing.
+
+**Fuel & Engine check**: For each pillar, identify the primary distribution engine (SEO, social, email, partnerships). Design content for that engine — don't create and then figure out distribution after.
 
 ---
 
@@ -331,9 +352,17 @@ For each recommended piece:
 - Content type (use-case, hub/spoke, thought leadership, etc.)
 - Target keyword and buyer stage
 - Why this topic (customer research backing)
+- Distribution engine (how it reaches people)
 
 ### 3. Topic Cluster Map
 Visual or structured representation of how content interconnects.
+
+### 4. Repurposing Plan (MKT1 Mileage Framework)
+For each anchor piece, show how it expands:
+- Anchor asset → social threads → email content → webinar → templates
+- Plan this upfront, not after publishing
+- Every piece should lead somewhere (no dead ends)
+- Maintain a backlog of existing content worth updating or repackaging
 
 ---
 
@@ -354,3 +383,10 @@ Visual or structured representation of how content interconnects.
 - **programmatic-seo**: For scaled content generation
 - **email-sequence**: For email-based content
 - **social-content**: For social media content
+
+---
+
+## Sources
+
+Frameworks in this skill draw from:
+- [MKT1 Newsletter](https://newsletter.mkt1.co/) — Fuel & Engine, Content as Product, Perceptions, Mileage framework, 30% Juice Rule, Strategic Roadmapping (Emily Kramer)

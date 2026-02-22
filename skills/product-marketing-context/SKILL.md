@@ -59,12 +59,23 @@ For each section:
 - Product type (SaaS, marketplace, e-commerce, service, etc.)
 - Business model and pricing
 
-### 2. Target Audience
+### 2. Target Audience & ICP Tiering
 - Target company type (industry, size, stage)
 - Target decision-makers (roles, departments)
 - Primary use case (the main problem you solve)
 - Jobs to be done (2-3 things customers "hire" you for)
 - Specific use cases or scenarios
+
+**ICP Prioritization Tiers** (MKT1 framework — allocate effort accordingly):
+
+| Tier | Definition | Effort |
+|------|-----------|--------|
+| **Core** | Proven winners — highest conversion, best retention | 50-60% |
+| **Scaling** | Growing segments with positive signals | 25-30% |
+| **Testing** | Experimental segments, unvalidated | 10-15% |
+| **Not Priority** | Deprioritized — poor fit or poor economics | 0% |
+
+Push for specificity: company-level ICP (industry, size, tech stack) AND persona-level ICP (roles, jobs-to-be-done, pain triggers, behaviors).
 
 ### 3. Personas (B2B only)
 If multiple stakeholders are involved in buying, capture for each:
@@ -77,13 +88,39 @@ If multiple stakeholders are involved in buying, capture for each:
 - What it costs them (time, money, opportunities)
 - Emotional tension (stress, fear, doubt)
 
-### 5. Competitive Landscape
+### 5. Competitive Landscape & Ecosystem Map
 - **Direct competitors**: Same solution, same problem (e.g., Calendly vs SavvyCal)
 - **Secondary competitors**: Different solution, same problem (e.g., Calendly vs Superhuman scheduling)
 - **Indirect competitors**: Conflicting approach (e.g., Calendly vs personal assistant)
 - How each falls short for customers
 
-### 6. Differentiation
+**Ecosystem Map** (MKT1 framework — go beyond direct competitors):
+
+| Category | What to Capture | Use For |
+|----------|----------------|---------|
+| **Competitors** | GTM strategy, positioning, ICP, key customers | Battlecards, differentiation, content gaps |
+| **Complements** | Integrations, influencers, communities, affiliates | Partnership campaigns, co-marketing |
+| **Frenemies** | Analysts, media, platforms, churned customers | Perception management, narrative shaping |
+
+Buyers make decisions within an ecosystem context — ignoring complements and frenemies limits growth.
+
+### 6. Positioning & Differentiation
+
+**Product Type** (MKT1 framework — choose ONE comparator):
+
+| Product Type | Comparator | Audience Awareness |
+|-------------|-----------|-------------------|
+| **Buy vs. Build** | DIY/homegrown solution | Solution-aware |
+| **Vertical Solution** | Generalist alternatives | Problem-aware |
+| **New Way** | Status quo/"old way" | Problem-aware |
+| **10x Better** | Direct competitor | Product-aware |
+
+**Positioning Statement** — fill three blanks:
+1. **Who is it for?** (specific ICP)
+2. **What is it?** (clear language, not jargon)
+3. **Why is it better?** (single #1 differentiator vs. chosen comparator)
+
+**Differentiation Details:**
 - Key differentiators (capabilities alternatives lack)
 - How you solve it differently
 - Why that's better (benefits)
@@ -112,13 +149,59 @@ The JTBD Four Forces:
 - Communication style (direct, conversational, technical)
 - Brand personality (3-5 adjectives)
 
-### 11. Proof Points
+### 11. Story Stack (MKT1 Framework)
+Build a narrative hierarchy — each layer reinforces the others:
+
+- **Brand**: Everything people think/feel about the company (brand attributes, values)
+- **Company Story**: Mission, vision, origin, why you exist
+- **Product Story**: Features, use cases, benefits — includes positioning
+- **Positioning**: Specific comparison showing why you're better (see Section 6)
+
+**The 30% Juice Rule**: Only ~30% of marketing content should directly reference your product. The other 70% covers problems solved, market trends, vision, and audience challenges. This builds a bigger narrative than features alone.
+
+### 12. Perceptions
+3-5 key narratives you want your audience to think or say about you. Written from the customer's perspective.
+
+**Characteristics:**
+- Memorable and easy to recall
+- Uniquely yours — competitors couldn't claim them
+- Span the Story Stack (company, audience/market, product)
+- Written as if the customer is saying it
+
+**Examples:**
+- "If considering [Competitor], also consider [You]"
+- "With [Market Change], [Your Product] is critical"
+- "For [Use Case], [You] has the best resources"
+- "[Founder] built this at [Scale], so it works at scale"
+
+**Test:** Could 90% of your non-SEO content ladder to these perceptions? If not, refine them.
+
+**Perceptions vs. Content Pillars:** Pillars = topics you cover (chapters). Perceptions = storylines you want to own (narrative threads). Pillars organize; Perceptions drive narrative ownership.
+
+### 13. Marketing Advantages (MKT1 Framework)
+Identify which of these 9 advantages your company has — then accelerate them:
+
+| Advantage | Description |
+|-----------|------------|
+| **Network effects/virality** | Product value increases with more users |
+| **Free plan/trial** | Self-serve conversion path |
+| **Wedge into larger market** | Niche entry with expansion plan |
+| **Integrations/co-marketing** | Ecosystem partner distribution |
+| **Channel partnerships** | Partners sell/promote for you |
+| **Forcing functions** | Trends or regulations creating urgency |
+| **Community/educational content** | Audience seeks learning and belonging |
+| **Founder story/market fit** | Founder credibility with target audience |
+| **Category creation/ownership** | Define or redefine the category |
+
+Rate each: potential strength (if fully leveraged) vs. current strength (how much you're using it). Focus on the gap.
+
+### 14. Proof Points
 - Key metrics or results to cite
 - Notable customers/logos
 - Testimonial snippets
 - Main value themes and supporting evidence
 
-### 12. Goals
+### 15. Goals
 - Primary business goal
 - Key conversion action (what you want people to do)
 - Current metrics (if known)
@@ -162,12 +245,17 @@ After gathering information, create `.claude/product-marketing-context.md` with 
 **What it costs them:**
 **Emotional tension:**
 
-## Competitive Landscape
+## Competitive Landscape & Ecosystem
 **Direct:** [Competitor] — falls short because...
 **Secondary:** [Approach] — falls short because...
 **Indirect:** [Alternative] — falls short because...
+**Complements (partners/integrations):**
+**Frenemies (analysts/media/platforms):**
 
-## Differentiation
+## Positioning & Differentiation
+**Product type:** [Buy vs. Build | Vertical Solution | New Way | 10x Better]
+**Comparator:** [What you're positioning against]
+**Positioning statement:** For [who], [product] is [what] that [why better]
 **Key differentiators:**
 -
 **How we do it differently:**
@@ -204,6 +292,18 @@ After gathering information, create `.claude/product-marketing-context.md` with 
 **Style:**
 **Personality:**
 
+## Story Stack
+**Brand (what people think/feel):**
+**Company Story (mission/vision):**
+**Product Story (features/use cases):**
+**Positioning (comparator + why better):**
+
+## Perceptions
+*Key narratives we want our audience to believe (written from customer POV):*
+1.
+2.
+3.
+
 ## Proof Points
 **Metrics:**
 **Customers:**
@@ -238,3 +338,10 @@ After gathering information, create `.claude/product-marketing-context.md` with 
 - **Ask for examples**: "Can you give me an example?" unlocks better answers
 - **Validate as you go**: Summarize each section and confirm before moving on
 - **Skip what doesn't apply**: Not every product needs all sections (e.g., Personas for B2C)
+
+---
+
+## Sources
+
+Frameworks in this skill draw from:
+- [MKT1 Newsletter](https://newsletter.mkt1.co/) — Positioning process, Story Stack, Perceptions, Ecosystem Map, Marketing Advantages, ICP Tiering (Emily Kramer)

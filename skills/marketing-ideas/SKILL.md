@@ -47,6 +47,48 @@ When asked for marketing ideas:
 
 ---
 
+## Strategic Frameworks (MKT1)
+
+Before jumping to tactics, ground your marketing in strategy. These frameworks from Emily Kramer's MKT1 help prioritize the right ideas for your situation.
+
+### The 4 Revenue Levers
+Prioritize quarterly — which lever do you need to pull?
+
+| Lever | Action | When to Focus |
+|-------|--------|--------------|
+| **Expand the pie** | Target new markets, segments, verticals | Product-market fit proven, ready to grow TAM |
+| **Capture more of the same pie** | Deepen penetration in proven segments | Strong ICP fit, competitors winning deals |
+| **Capture pie more efficiently** | Improve conversion, lower CAC | Good volume but poor unit economics |
+| **Get more from your slice** | Upsell, expand, increase pricing | Strong retention, undermonetized base |
+
+### 9 Marketing Advantages
+Identify which advantages your company has — then choose tactics that accelerate them:
+
+1. **Network effects/virality** → Product-led growth tactics (#87-96)
+2. **Free plan/trial** → PLG and self-serve optimization
+3. **Wedge into larger market** → Niche positioning, then expand
+4. **Integrations/co-marketing** → Partnership tactics (#54-64)
+5. **Channel partnerships** → Affiliate and reseller programs
+6. **Forcing functions (trends/regulations)** → Timely content and PR (#73-76)
+7. **Community/educational content** → Content & community (#35-44)
+8. **Founder story/market fit** → Thought leadership and social (#35-37)
+9. **Category creation/ownership** → Programmatic SEO + thought leadership
+
+**Key insight**: Don't copy another company's playbook. Identify what makes YOUR company different, then choose tactics that accelerate those unique advantages.
+
+### 5 Thought Experiments (MKT1)
+When stuck, use these to break out of default thinking:
+
+1. **No New Content** — What if you couldn't create anything new for a quarter? Focus on distribution, repurposing, updating. What existing content has never been fully distributed?
+2. **No New Top-of-Funnel** — What if you couldn't target new leads? Where's the hidden revenue in lifecycle, activation, and expansion?
+3. **Copycat Competitor** — If a competitor copied your product feature-for-feature overnight, why would a buyer still choose you? Exposes whether differentiation is real.
+4. **Would You Rather** — Force binary choices: Perfect GTM tooling vs. founder as influencer? One major partner vs. 50 small creators? Reveals which levers you actually trust.
+5. **Pick Your Dream Speaker** — If anyone could represent your company, who? Work backward to realistic partnerships that build credibility.
+
+**Bonus experiments:** "1 KPI Only" (what matters most?), "Do This Faster" (what's your trusted growth action?), "Stack Rank Initiatives" (forced prioritization).
+
+---
+
 ## Implementation Tips
 
 ### By Stage
@@ -148,12 +190,26 @@ When recommending ideas, provide for each:
 
 ---
 
+## KPO Goals Framework (MKT1)
+
+When recommending marketing ideas, categorize them into three goal types for balanced planning:
+
+- **K = KPI Goals**: Metric targets tied to revenue (consistent quarter-to-quarter)
+- **P = Project Goals**: Big-bet initiatives with outsized potential (strategic bets per quarter)
+- **O = Ops Goals**: Foundational infrastructure — hiring, tooling, process, analytics
+
+Balance all three. KPIs alone create a hamster wheel. Projects alone are scattered. Ops alone never ships.
+
+---
+
 ## Task-Specific Questions
 
 1. What's your current stage and main growth goal?
 2. What's your marketing budget and team size?
 3. What have you already tried that worked or didn't?
 4. What competitor tactics do you admire?
+5. Which revenue lever do you need to pull? (new markets, market share, efficiency, expansion)
+6. What marketing advantages does your company have? (network effects, founder brand, partnerships, etc.)
 
 ---
 
@@ -164,3 +220,10 @@ When recommending ideas, provide for each:
 - **email-sequence**: For email marketing tactics
 - **free-tool-strategy**: For engineering as marketing (#15)
 - **referral-program**: For viral growth (#93)
+
+---
+
+## Sources
+
+Frameworks in this skill draw from:
+- [MKT1 Newsletter](https://newsletter.mkt1.co/) — 4 Revenue Levers, 9 Marketing Advantages, Thought Experiments, KPO Goals, Random Acts of Marketing (Emily Kramer)

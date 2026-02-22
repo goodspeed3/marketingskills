@@ -27,6 +27,38 @@ A strong launch isn't about a single moment. It's about:
 
 ---
 
+## The GACCS Brief (MKT1 Framework)
+
+Before any launch, align stakeholders with a GACCS Brief — the five essentials to scope any marketing initiative:
+
+| Element | Question to Answer |
+|---------|-------------------|
+| **Goals** | Why are we doing this? What outcomes define success? |
+| **Audience** | Who specifically? Which ICP segment and tier? |
+| **Channels** | Which distribution engines? (Owned, rented, borrowed) |
+| **Creative** | What fuel? Messages, assets, formats, angles? |
+| **Stakeholders** | Who's the DRI? Who provides input? What dependencies exist? |
+
+**Process:**
+1. Write a short GACCS for alignment and buy-in
+2. Expand into a full launch plan
+3. Use as review rubric for stakeholder feedback
+
+Every launch campaign needs a **single DRI** (Directly Responsible Individual) who owns execution and coordination across marketing functions.
+
+---
+
+## Fuel & Engine Alignment (MKT1 Framework)
+
+A launch combines **fuel** (messaging, creative, content) with an **engine** (distribution channels, promotion). Many teams fail by creating great content with no distribution plan, or building distribution with nothing to feed it.
+
+**Pre-launch audit:**
+- What fuel do we need? (blog post, demo video, social content, email copy, ads)
+- What engines will distribute it? (email list, social, Product Hunt, PR, ads)
+- Are fuel and engine designed together? (creative should be built for the channel)
+
+---
+
 ## The ORB Framework
 
 Structure your launch marketing across three channel types. Everything should ultimately lead back to owned channels.
@@ -231,6 +263,24 @@ Product Hunt can be powerful for reaching early adopters, but it's not magic—i
 
 ---
 
+## Campaign Execution Principles (MKT1)
+
+Five rules for running effective launch campaigns:
+
+1. **Actually run integrated campaigns** — Don't treat content and distribution as separate activities. Coordinate fuel and engine with tight feedback loops.
+2. **Plan quarterly, reassess monthly** — Stack rank campaigns against growth priorities. Stay flexible to swap based on what's working.
+3. **Assign a single DRI** — One person owns end-to-end coordination across content, growth, product marketing, and ops.
+4. **Campaign briefs are non-negotiable** — Use the GACCS Brief. Not busywork — alignment.
+5. **Double down on what works** — When a tactic or campaign shows results, scale it. Stop reinventing the wheel.
+
+### Avoiding Random Acts of Marketing
+If you're doing "check-the-box" marketing without connecting it to strategy, stop. Use the traffic light system:
+- **Green (70%)**: Proven initiatives aligned to strategy
+- **Yellow (20%)**: Promising experiments with strategic rationale
+- **Red (10%)**: High-risk bets with outsized potential
+
+---
+
 ## Post-Launch Product Marketing
 
 Your launch isn't over when the announcement goes live. Now comes adoption and retention work.
@@ -349,3 +399,10 @@ Even small changelog updates remind customers your product is evolving. This bui
 - **page-cro**: For optimizing launch landing pages
 - **marketing-psychology**: For psychology behind waitlists and exclusivity
 - **programmatic-seo**: For comparison pages mentioned in post-launch
+
+---
+
+## Sources
+
+Frameworks in this skill draw from:
+- [MKT1 Newsletter](https://newsletter.mkt1.co/) — GACCS Brief, Fuel & Engine, Campaign Execution Principles, Random Acts of Marketing (Emily Kramer)

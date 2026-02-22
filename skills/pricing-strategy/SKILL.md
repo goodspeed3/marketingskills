@@ -139,6 +139,42 @@ Identifies which features customers value most:
 
 ---
 
+## GTM Efficiency Metrics (MKT1 Framework)
+
+Understanding these metrics is essential for pricing decisions — they reveal whether your pricing supports sustainable growth.
+
+### Three Core Efficiency Metrics
+
+| Metric | Formula | Benchmark | What It Tells You |
+|--------|---------|-----------|------------------|
+| **CAC Ratio** | New ARR / (Total CAC x Marketing % of CAC) | 0.7-1.2 | How efficiently you acquire revenue |
+| **CAC Payback** | CAC per customer / Monthly gross margin per customer | 12-18 months | How fast you recoup acquisition costs |
+| **LTV:CAC** | LTV / CAC (where LTV = ACV / annual churn) | 3:1 | Long-term sustainability |
+
+- **CAC Ratio < 0.7** → spending too aggressively, or pricing too low
+- **CAC Payback > 18 months** → pricing may not support your acquisition costs
+- **LTV:CAC < 3:1** → pricing is too low relative to acquisition cost, or churn is too high
+
+### Marketing Budget Calculation
+
+Three approaches to back into a marketing budget from pricing and revenue targets:
+
+**Method A — CAC Ratio**: Marketing budget = (New ARR target / CAC Ratio target) x Marketing % of total CAC
+
+**Method B — Payback Period**: Marketing budget = (CAC per customer x target new customers) x Marketing % allocation
+
+**Method C — LTV:CAC**: Marketing budget = (LTV / LTV:CAC target) x Marketing % of total CAC
+
+**Rule of thumb**: Allocate 35-45% of total CAC to marketing, 55-65% to sales. Industry benchmark: 30-50% of new + expansion revenue goes to marketing spend.
+
+### Pricing ↔ Budget Connection
+Your pricing directly constrains your marketing budget:
+- Higher ACV → can afford more expensive acquisition channels (events, outbound, ABM)
+- Lower ACV → must rely on efficient channels (self-serve, content, PLG)
+- ACV < $10K → sales-assisted model is usually unprofitable; optimize for self-serve
+
+---
+
 ## When to Raise Prices
 
 ### Signs It's Time
@@ -225,3 +261,10 @@ Identifies which features customers value most:
 - **copywriting**: For pricing page copy
 - **marketing-psychology**: For pricing psychology principles
 - **ab-test-setup**: For testing pricing changes
+
+---
+
+## Sources
+
+Frameworks in this skill draw from:
+- [MKT1 Newsletter](https://newsletter.mkt1.co/) — GTM efficiency metrics, budget calculation methods, CAC-to-pricing relationship (Emily Kramer)

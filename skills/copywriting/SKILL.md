@@ -37,6 +37,28 @@ Gather this context (ask if not provided):
 
 ---
 
+## Narrative Alignment (MKT1 Framework)
+
+Before writing any page, ground your copy in the Story Stack and Perceptions.
+
+### Story Stack
+Every piece of copy sits within a narrative hierarchy:
+
+- **Brand** (top-level feelings/associations) → guides tone and emotional register
+- **Company Story** (mission, vision, origin) → guides About pages, founder content
+- **Product Story** (features, use cases, benefits) → guides feature pages, demos
+- **Positioning** (who, what, why better vs. comparator) → guides headlines, hero sections
+
+Write from the appropriate layer. A homepage hero draws from Positioning. An About page draws from Company Story. Most marketing content should ladder to all layers.
+
+### The 30% Juice Rule
+Only ~30% of page copy should be directly about your product features. The other 70% should address the problem, the market context, the transformation, and the audience's world. This prevents copy that reads like a feature list and builds a bigger, more compelling narrative.
+
+### Perceptions Check
+If your product marketing context includes Perceptions (key narratives), every page should reinforce at least one. Before writing, identify: "Which Perception does this page advance?" If the answer is "none," reconsider the page's purpose.
+
+---
+
 ## Copywriting Principles
 
 ### Clarity Over Cleverness
@@ -172,6 +194,12 @@ Examples:
 - Serve multiple audiences without being generic
 - Lead with broadest value proposition
 - Provide clear paths for different visitor intents
+- **Positioning check**: Hero section must answer all three positioning questions — who is it for, what is it, why is it better. If any is missing, the hero fails.
+- **Product type alignment** (MKT1): Your headline angle should match your product type:
+  - Buy vs. Build → "Stop building [thing] in-house"
+  - Vertical Solution → "The [category] for [specific audience]"
+  - New Way → "There's a better way to [solve problem]"
+  - 10x Better → "[Specific metric] faster/better than [competitor]"
 
 ### Landing Page
 - Single message, single CTA
@@ -249,3 +277,10 @@ For headlines and CTAs, provide 2-3 options:
 - **email-sequence**: For email copywriting
 - **popup-cro**: For popup and modal copy
 - **ab-test-setup**: To test copy variations
+
+---
+
+## Sources
+
+Frameworks in this skill draw from:
+- [MKT1 Newsletter](https://newsletter.mkt1.co/) — Story Stack, Perceptions, 30% Juice Rule, Product Type positioning alignment (Emily Kramer)
